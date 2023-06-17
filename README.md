@@ -1,6 +1,6 @@
 # Lemmy.py
 
-**Le code source de ce projet est hébérger sur Codeberg: https://codeberg.org/retiolus/Lemmy.py**
+**The source code for this project is hosted on Codeberg: https://codeberg.org/retiolus/Lemmy.py**
 
 Python wrapper for the Lemmy ( https://github.com/LemmyNet/lemmy ) API. Based the official [Lemmy TS library](https://github.com/LemmyNet/lemmy-js-client).
 
