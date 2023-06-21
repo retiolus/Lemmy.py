@@ -2,7 +2,11 @@
 
 **The source code for this project is hosted on Codeberg: https://codeberg.org/retiolus/Lemmy.py**
 
-Python wrapper for the Lemmy ( https://github.com/LemmyNet/lemmy ) API. Based the official [Lemmy TS library](https://github.com/LemmyNet/lemmy-js-client).
+Python wrapper for the [Lemmy](https://github.com/LemmyNet/lemmy) API. Based on the official [Lemmy TS library](https://github.com/LemmyNet/lemmy-js-client).
+
+```bash
+pip install Lemmy.py
+```
 
 ```py
 from lemmy import Lemmy
